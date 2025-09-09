@@ -7,3 +7,4 @@ langchain-pinecone
 langchain-community
 langchain-groq
 -e .
+gunicorn
